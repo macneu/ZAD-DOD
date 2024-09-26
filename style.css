@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h5 {
+    font: 50px  Arial, sans-serif;
+    line-height: 0;
+}
+
+.rzeczownik {
+    color: red;
+    font:  35px Arial;
+    text-decoration: double;
+}
+
+.czasownik {
+    color: blue;
+    font: 40px Times;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.przymiotnik {
+    color: orange;
+    font: 38px  Courier;
+    text-decoration: wavy;
+    text-shadow: 5px  5px 5px black;
+}
